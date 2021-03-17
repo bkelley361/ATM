@@ -1,0 +1,15 @@
+C:\Users\benke\source\repos\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\benke\source\repos\ATM\ATM\obj\Debug\ATM.Login.resources
+C:\Users\benke\source\repos\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\benke\source\repos\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\benke\source\repos\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\benke\source\repos\ATM\ATM\bin\Debug\ATM Database.mdf
+C:\Users\benke\source\repos\ATM\ATM\bin\Debug\ATM Database_log.ldf
+C:\Users\benke\source\repos\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\benke\source\repos\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\benke\source\repos\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\benke\source\repos\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\benke\source\repos\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\benke\source\repos\ATM\ATM\obj\Debug\ATM.AccountView.resources
+C:\Users\benke\source\repos\ATM\ATM\obj\Debug\ATM.CheckingForm.resources
+C:\Users\benke\source\repos\ATM\ATM\obj\Debug\ATM.SavingsForm.resources
